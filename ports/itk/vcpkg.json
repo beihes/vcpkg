@@ -124,6 +124,10 @@
           "default-features": false
         }
       ]
+    },
+    "montage": {
+        "description": "Build ITKMontage module for image stitching.",
+        "supports": "!x86"
     }
   }
 }
